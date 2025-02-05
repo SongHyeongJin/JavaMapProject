@@ -5,7 +5,7 @@
 
 -----
 
-# 사용 기술
+## 사용 기술
 Language : Java
 DB : Mysql
 API : <a href="https://www.ncloud.com/product/applicationService/maps">네이버 지도 API</a>, <a href="[https://www.ncloud.com/product/applicationService/maps](https://developers.naver.com/products/service-api/search/search.md)">네이버 주소검색색 API</a>
